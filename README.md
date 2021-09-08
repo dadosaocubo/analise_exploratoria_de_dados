@@ -1,6 +1,6 @@
-# Análise Exploratória de Dados com [Dados ao Cubo](https://www.dadosaocubo.com/)
+# Análise Exploratória de Dados com o [Dados ao Cubo](https://www.dadosaocubo.com/)
 
-Aqui você encontra notebooks referentes a [Análise Exploratória de Dados](https://dadosaocubo.com/category/trilhas-de-ensino/exploracao-de-dados/), se quiser ver os conteúdos completos acesse os links ds artigos abaixo:
+Aqui você encontra alguns notebooks referentes a [Análise Exploratória de Dados](https://dadosaocubo.com/category/trilhas-de-ensino/exploracao-de-dados/), se quiser ver os conteúdos completos acesse os links dos artigos abaixo:
 
 + [Análise Exploratória de Dados com Python Parte I](https://dadosaocubo.com/analise-exploratoria-de-dados-com-python-parte-i/)
 + [Análise Exploratória de Dados com Python Parte II](https://dadosaocubo.com/analise-exploratoria-de-dados-com-python-parte-ii/)
